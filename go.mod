@@ -1,3 +1,5 @@
 module github.com/iilei/convergenci-cli
 
-go 1.25
+go 1.26.0
+
+toolchain go1.27.3
